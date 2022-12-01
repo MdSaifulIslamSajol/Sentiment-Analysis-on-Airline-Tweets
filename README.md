@@ -7,3 +7,11 @@ For this work Python with: Pandas, jupyter notebook and scikit learning librarie
 
 Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). The original dataset was collected from https://data.world/crowdflower/airline-twitter-sentiment. Then it was processed using this repository https://github.com/benhamner/crowdflower-airline-twitter-
 sentiment/blob/master/Makefile.
+
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/string%20length%20distribution.png)
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/Calssification%20Reports%20and%20Model%20Comparison.PNG)
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/Confusion%20Matrix%20for%20Random%20Forest.png)
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/Receiver%20operating%20characteristic%20for%20Random%20Forest.png)
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/word%20cloud%20of%20neutral%20sentiments.png)
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/word%20cloud%20of%20positive%20sentiments.png)
+![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/word%20count%20of%20negative%20sentiments.png)

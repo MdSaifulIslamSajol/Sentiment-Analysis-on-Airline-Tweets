@@ -8,7 +8,8 @@ For this work Python with: Pandas, jupyter notebook and scikit learning librarie
 Twitter data was scraped from February of 2015 and contributors were asked to first classify positive, negative, and neutral tweets, followed by categorizing negative reasons (such as "late flight" or "rude service"). The original dataset was collected from https://data.world/crowdflower/airline-twitter-sentiment. Then it was processed using this repository https://github.com/benhamner/crowdflower-airline-twitter-
 sentiment/blob/master/Makefile.
 
-##[Project Report ](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/Saiful%20Islam%20Sajol_EXST_7142_Final_Project.pdf)
+## [Project Report Link](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/Saiful%20Islam%20Sajol_EXST_7142_Final_Project.pdf)
+## [Full Project Link](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/sentiment_analysis_7142%20Project.ipynb)
 
 ![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/string%20length%20distribution.png)
 ![alt text](https://github.com/MdSaifulIslamSajol/Sentiment-Analysis-on-Airline-Tweets/blob/main/images/Calssification%20Reports%20and%20Model%20Comparison.PNG)
